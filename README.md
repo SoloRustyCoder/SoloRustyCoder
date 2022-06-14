@@ -1,7 +1,7 @@
 ### Hello, call me Rusty! 👋
 ##
 - 🔭 I’m currently searching for work
-- 🌱 I’m currently learning C, Java, Python and GDScript from Godot
+- 🌱 I’m learning C, Java, Python and GDScript from Godot
 - 🤔 I’m looking for help to learn new things and grown up as a developer
 - 😄 Pronouns: Her/His
 - ⚡ Fun fact: I've started with Game Dev. That makes me curious about general programming and now here I am!
